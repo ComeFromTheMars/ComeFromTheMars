@@ -3,7 +3,7 @@
   <a href="README_zh.md"><img src="https://img.shields.io/badge/语言-中文-d9d9d9?style=for-the-badge" alt="中文"></a>
 </div>
 
-# Hi there! I'm Rock 👋 
+# Hi there! I'm ComeFromTheMars,my english name is Rock 👋 
 
 **🤖 AI Researcher | Specializing in Knowledge Tracing & Intelligent Education**
 
@@ -42,5 +42,5 @@ As a new explorer on GitHub, I am turning my research ideas into code. In the fu
 - 📧 Email: `comefrommarsyy@163.com`
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=你的用户名&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=ComeFromTheMars&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
 </p>
