@@ -5,7 +5,7 @@
 
 # Hi there! I'm ComeFromTheMars,my english name is Rock 👋 
 
-**🤖 AI Researcher | Specializing in Knowledge Tracing & Intelligent Education**
+**🤖 AI Researcher | Specializing in Data Mining & Intelligent Education**
 
 ---
 
