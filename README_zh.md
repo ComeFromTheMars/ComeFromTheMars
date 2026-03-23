@@ -3,9 +3,9 @@
   <a href="README_zh.md"><img src="https://img.shields.io/badge/语言-中文-E41E2B?style=for-the-badge" alt="中文"></a>
 </div>
 
-# 你好！我是 Rock 👋 
+# 你好！我是ComeFromTheMars，我的英文名是 Rock 👋 
 
-**🤖 AI 研究员 | 专注于数据挖掘与智能教育**
+**🤖 AI 研究员 | 专注于数据挖掘与智慧教育**
 
 ---
 
@@ -42,5 +42,5 @@
 - 📧 邮箱: `comefrommarsyy@163.com`
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=你的用户名&label=主页访问量&color=0e75b6&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=ComeFromTheMars&label=主页访问量&color=0e75b6&style=flat-square" alt="Views" />
 </p>
