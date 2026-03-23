@@ -1,8 +1,11 @@
+<div align="right">
+  <a href="README.md"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" alt="English"></a>
+  <a href="README_zh.md"><img src="https://img.shields.io/badge/语言-中文-d9d9d9?style=for-the-badge" alt="中文"></a>
+</div>
+
 # Hi there! I'm Rock 👋 
 
-<p align="center">
-  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Researcher+@+Smart+Education;Specializing+in+Knowledge+Tracing;Data+Mining+%26+Adaptive+Testing;Just+Started+My+GitHub+Journey!..." alt="Typing SVG" />
-</p>
+**🤖 AI Researcher | Specializing in Knowledge Tracing & Smart Education**
 
 ---
 
@@ -37,32 +40,6 @@ As a new explorer on GitHub, I am turning my research ideas into code. In the fu
 
 ### 📫 Contact Me
 - 📧 Email: `comefrommarsyy@163.com`
-
----
-
-<details>
-  <summary><b>🇨🇳 点击这里展开查看中文版本 (Click to expand Chinese Version)</b></summary>
-  
-  <br>
-
-  ### 🎓 研究方向
-  我致力于通过数据驱动的方法优化教育公平与效率，目前的研究重点包括：
-  - 📊 **数据挖掘 (Data Mining)**: 挖掘学习过程中的潜在模式。
-  - 🧠 **知识追踪 (Knowledge Tracing)**: 建模学习者的知识状态演变。
-  - 🏫 **智慧教育 (Smart Education)**: 构建智能化教学辅助系统。
-  - 🎯 **计算机自适应测评 (CAT)**: 实现精准、个性化的能力评估。
-
-  ---
-
-  ### 🌱 目前探索
-  作为 GitHub 的新晋探索者，我正在将我的研究想法转化为代码。未来，我计划在这里分享和开源：
-  - 知识追踪相关经典模型的复现与优化
-  - 智慧教育场景下的数据预处理与分析工具
-  - 期待与更多志同道合的研究者和开发者交流！
-
-</details>
-
-<br>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=你的用户名&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
