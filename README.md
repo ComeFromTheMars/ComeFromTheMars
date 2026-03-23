@@ -5,7 +5,7 @@
 
 # Hi there! I'm Rock 👋 
 
-**🤖 AI Researcher | Specializing in Knowledge Tracing & Smart Education**
+**🤖 AI Researcher | Specializing in Knowledge Tracing & Intelligent Education**
 
 ---
 
@@ -13,7 +13,7 @@
 I am dedicated to optimizing educational equity and efficiency through data-driven approaches. My current research focuses include:
 - 📊 **Data Mining**: Uncovering underlying patterns in the learning process.
 - 🧠 **Knowledge Tracing**: Modeling the evolution of learners' knowledge states.
-- 🏫 **Smart Education**: Building intelligent teaching assistance systems.
+- 🏫 **Intelligent Education**: Building AI-driven teaching assistance systems.
 - 🎯 **Computerized Adaptive Testing (CAT)**: Achieving precise and personalized ability assessment.
 
 ---
@@ -21,7 +21,7 @@ I am dedicated to optimizing educational equity and efficiency through data-driv
 ### 🌱 Currently Exploring
 As a new explorer on GitHub, I am turning my research ideas into code. In the future, I plan to share and open-source:
 - Reproductions and optimizations of classic Knowledge Tracing models.
-- Data preprocessing and analysis tools for smart education scenarios.
+- Data preprocessing and analysis tools for intelligent education scenarios.
 - Looking forward to connecting with like-minded researchers and developers!
 
 ---
